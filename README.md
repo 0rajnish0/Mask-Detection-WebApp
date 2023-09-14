@@ -2,6 +2,16 @@
 
 This repository contains a Python script to train a mask detection model and a web application to test if a person is wearing a mask or not.
 
+
+## Download the DataSet
+From the given link Download the DataSet https://www.kaggle.com/datasets/omkargurav/face-mask-dataset and store it in the root folder.
+**folder Structure will be like**
+```bash
+    data-
+        ├───without_mask
+        └───with_mask
+```
+
 ## Trained Model
 
 ### Saving the Trained Model
