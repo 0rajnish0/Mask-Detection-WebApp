@@ -38,19 +38,14 @@ To train and save the model, follow these steps:
 
 To run the web application, follow these steps:
 
-1. **Install Dependencies:** Install the required dependencies using pip:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. **Start the Web App:** Start the Flask web application by running the `app.py` script:
+1. **Start the Web App:** Start the Flask web application by running the `app.py` script:
 
     ```bash
     python app.py
     ```
 
-3. **Access the Web App:** Open a web browser and go to [http://localhost:5000](http://localhost:5000) to access the web application.
+2. **Access the Web App:** Open a web browser and go to [http://localhost:5000](http://localhost:5000) to access the web application.
 
 ### Using the Web Application
 
